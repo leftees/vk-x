@@ -5,5 +5,5 @@ ratings:
   paths:
   - source/**/*.litcoffee
 exclude_paths:
-- **/*.template.*
+- **/*.template.
 - source/i18n/**/*
